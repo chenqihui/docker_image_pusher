@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-coturn/coturn:latest
+--platform=linux/arm64 coturn/coturn:latest
