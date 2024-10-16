@@ -9,3 +9,7 @@
 #--platform=linux/arm64 coturn/coturn:latest
 
 --platform=linux/arm64 livekit/ingress
+
+--platform=linux/arm64 livekit/egress
+
+--platform=linux/arm64 redis
