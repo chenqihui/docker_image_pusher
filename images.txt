@@ -10,6 +10,6 @@
 
 #--platform=linux/arm64 livekit/ingress
 
-#--platform=linux/arm64 livekit/egress
+--platform=linux/arm64 livekit/egress
 
---platform=linux/arm64 redis
+#--platform=linux/arm64 redis
