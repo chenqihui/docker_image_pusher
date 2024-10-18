@@ -15,3 +15,7 @@
 --platform=linux/arm64 redis
 
 --platform=linux/arm64 livekit/livekit-server
+
+#amd64
+
+--platform=linux/amd64 livekit/livekit-server
